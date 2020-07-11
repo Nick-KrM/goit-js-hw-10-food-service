@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://Nick-KrM.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://Nick-KrM.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
@@ -31,6 +31,7 @@
     "file-loader": "^6.0.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "gh-pages": "^2.2.0",
+    "gh-pages-deploy": "^0.5.1",
     "handlebars-loader": "^1.7.1",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
